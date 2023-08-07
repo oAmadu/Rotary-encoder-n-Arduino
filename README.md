@@ -1,6 +1,6 @@
 # Rotary-encoder-n-Arduino
 
-In this project, we connected a rotary encoder to the arduino
+Welcome, in this project, we connected a rotary encoder to the arduino
 
 https://github.com/oAmadu/Rotary-encoder-n-Arduino/assets/90242708/d11d1fb4-f7d3-44a9-8a44-a2fe71933988
 
